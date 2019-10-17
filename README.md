@@ -21,7 +21,7 @@ We want to create a form to onboard a new user to our system. We need _at least_
 - Email
 - Password
 - Terms of Service (checkbox)
-- A Submit button to send our form data to the server.
+- A Submit button to send our form data to the server.[]
 
 ## STEP 2 - Implement Form Validation and Error Messaging
 
