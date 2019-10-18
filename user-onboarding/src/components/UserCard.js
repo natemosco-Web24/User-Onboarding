@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function UserCard({ props }) {
+export default function UserCard({ username = "username", email = "email", tos = "false", title = "fullstack" }) {
     return (
         <div>
             <h1>{username}</h1>
